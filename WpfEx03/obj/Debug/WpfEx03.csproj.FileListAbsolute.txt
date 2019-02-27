@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\bin\Debug\WpfEx03.exe.config
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\bin\Debug\WpfEx03.exe
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\bin\Debug\WpfEx03.pdb
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\obj\Debug\WpfEx03.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\obj\Debug\WpfEx03_MarkupCompile.cache
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\obj\Debug\WpfEx03_MarkupCompile.lref
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\obj\Debug\MainWindow.baml
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\obj\Debug\WpfEx03.g.resources
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\obj\Debug\WpfEx03.Properties.Resources.resources
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\obj\Debug\WpfEx03.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\obj\Debug\WpfEx03.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\obj\Debug\WpfEx03.exe
+C:\Users\Dell\source\repos\DecouverteWPF\WpfEx03\obj\Debug\WpfEx03.pdb
