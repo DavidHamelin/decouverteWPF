@@ -5,10 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfEx05"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="800">
+        Title="LaManu" Height="600" Width="800">
     <Grid>
-        <Image Source="Img/computer.png" HorizontalAlignment="Center" VerticalAlignment="Center" Stretch="Uniform"/>
-        <Image Source="Img/laManu.jpg" Height="230" HorizontalAlignment="Center" Stretch="Uniform" Margin="308,146,308,194"/>
-        <TextBox HorizontalAlignment="Left" Height="88" TextWrapping="Wrap" Text="Avec la Manu j'apprends à devenir un bon développeur !" VerticalAlignment="Top" Width="568" Margin="108,58,0,0" FontSize="36" TextAlignment="Center" Foreground="#FF58B1E4" BorderBrush="{x:Null}" FontFamily="DejaVu Serif" TextDecorations="{x:Null}"/>
+        <Image Source="Img\computer.png" 
+               HorizontalAlignment="Center" VerticalAlignment="Center" Stretch="Uniform"/>
+        <Image Source="Img\laManu.jpg" Height="230"
+               HorizontalAlignment="Center" Stretch="Uniform" Margin="308,146,308,194"/>
+        <TextBlock HorizontalAlignment="Left" Height="69" TextWrapping="Wrap" 
+                 Text="Avec la Manu j'apprends à devenir un bon développeur !" VerticalAlignment="Top" Width="491" 
+                 Margin="145,77,0,0" FontSize="24" TextAlignment="Center" Foreground="#FF58B1E4" FontFamily="Gungsuh" FontWeight="Bold"/>
     </Grid>
 </Window>

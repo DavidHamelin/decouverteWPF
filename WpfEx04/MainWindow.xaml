@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfEx04"
         mc:Ignorable="d"
-        Title="MainWindow" Height="300" Width="600">
+        Title="Your Name" Height="300" Width="600">
     <Grid RenderTransformOrigin="0.497,0.465">
         <Button Content="Valider" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="261,124,0,0" Click="Button_Click"/>
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="219,43,0,0" Height="23" Width="157" Text="Quel est votre nom ?"/>

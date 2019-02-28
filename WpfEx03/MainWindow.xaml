@@ -9,8 +9,8 @@
     <Grid>
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="5.824,4.559" Margin="169,64,0,0" Height="42" Width="246"><Run Text="Bonjour ! "/><Run Text="Quel est votre nom ?"/></TextBlock>
         <TextBox Name="userAnswer" HorizontalAlignment="Left" Height="39" TextWrapping="Wrap" VerticalAlignment="Top" Width="246" Margin="169,106,0,0"/>
-        <TextBlock Text="Bonjour" TextWrapping="Wrap" HorizontalAlignment="Left" Margin="169,155,0,78" Width="46"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding Path=Text, ElementName=userAnswer}" VerticalAlignment="Top" Margin="220,155,0,0" Height="37" Width="195" Foreground="Black"/>
+        <TextBlock Text="Bonjour" TextWrapping="Wrap" HorizontalAlignment="Left" Margin="169,155,0,86" Width="46"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding Path=Text, ElementName=userAnswer}" VerticalAlignment="Top" Margin="215,151,0,0" Height="37" Width="195" Foreground="Black" FontSize="16" FontStyle="Italic"/>
         <!-- binding : récupère la valeur de la TextBox "userAnswer" avec Text="{Binding Path=Text, ElementName=userAnswer}"-->
     </Grid>
 </Window>
